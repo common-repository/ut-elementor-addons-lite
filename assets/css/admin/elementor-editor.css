@@ -1,0 +1,12 @@
+/* ---Backend editor css for Ultra placeholder in widgets */
+.ut-widget-icon::after {
+    content: "ULTRA";
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    font-size: 9px;
+    border: 2px solid #eeecec96;
+    padding: 3px;
+    color: #888;
+    background-color: #eaeaea2e;
+}

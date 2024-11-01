@@ -1,0 +1,3093 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Addons Lite for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-16 07:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: ut-elementor-addons-lite"
+
+#: elements/nav-menu.php:103
+msgid " Left"
+msgstr ""
+
+#: elements/pricing-table.php:104 elements/funfact.php:61
+#: elements/funfact.php:62
+msgid "$"
+msgstr ""
+
+#: ut-elementor-addons-lite.php:218
+#, php-format
+msgid ""
+"%1$s requires %2$s to be installed and activated to function properly. %3$s"
+msgstr ""
+
+#: includes/queries.php:452
+msgid "(no name)"
+msgstr ""
+
+#: elements/pricing-table.php:124
+msgid "/"
+msgstr ""
+
+#: elements/blog-grid.php:133
+msgid "1"
+msgstr ""
+
+#: elements/post-tab.php:209
+msgid "1 Column"
+msgstr ""
+
+#: elements/calendly.php:54
+msgid "15 Minutes"
+msgstr ""
+
+#: elements/blog-grid.php:134
+msgid "2"
+msgstr ""
+
+#: elements/post-tab.php:210
+msgid "2 Column"
+msgstr ""
+
+#: elements/blog-grid.php:135
+msgid "3"
+msgstr ""
+
+#: elements/post-tab.php:211
+msgid "3 Column"
+msgstr ""
+
+#: elements/calendly.php:55
+msgid "30 Minutes"
+msgstr ""
+
+#: elements/blog-grid.php:136
+msgid "4"
+msgstr ""
+
+#: elements/post-tab.php:212
+msgid "4 Column"
+msgstr ""
+
+#: elements/calendly.php:56
+msgid "60 Minutes"
+msgstr ""
+
+#: elements/nav-menu.php:76
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: elements/modal-popup.php:214
+msgid "[shortcode]"
+msgstr ""
+
+#: elements/alert.php:99
+msgid "A simple alert—check it out!"
+msgstr ""
+
+#: elements/nav-menu.php:225 elements/nav-menu.php:397
+#: elements/post-tab.php:519
+msgid "Active"
+msgstr ""
+
+#: elements/slider.php:1336
+msgid "Active Color"
+msgstr ""
+
+#: elements/modal-popup.php:88
+msgid "Add your content here (HTML/Shortcode)"
+msgstr ""
+
+#: elements/modal-popup.php:90
+msgid "Add your popup content here"
+msgstr ""
+
+#: elements/modal-popup.php:459 elements/flip-box.php:536
+#: elements/image-comparison.php:86
+msgid "After"
+msgstr ""
+
+#: includes/elementor-helper.php:309 includes/elementor-helper.php:341
+#: includes/elementor-helper.php:373 elements/blog-block.php:447
+#: elements/blog-block.php:477 elements/blog-block.php:507
+#: elements/blog-block.php:629 elements/blog-block.php:659
+#: elements/blog-block.php:689
+msgid "After Content"
+msgstr ""
+
+#: elements/typeout.php:69
+msgid "After Text"
+msgstr ""
+
+#: includes/elementor-helper.php:308 includes/elementor-helper.php:340
+#: includes/elementor-helper.php:372 elements/blog-block.php:446
+#: elements/blog-block.php:476 elements/blog-block.php:506
+#: elements/blog-block.php:628 elements/blog-block.php:658
+#: elements/blog-block.php:688
+msgid "After Title"
+msgstr ""
+
+#: elements/alert.php:15
+msgid "Alert Message"
+msgstr ""
+
+#: elements/nav-menu.php:99 elements/modal-popup.php:301
+#: elements/typeout.php:203 elements/progress-bar.php:349
+#: elements/search.php:105 elements/team.php:265 elements/team.php:320
+#: elements/team.php:379 elements/site-logo.php:69 elements/flip-box.php:61
+msgid "Alignment"
+msgstr ""
+
+#: elements/calendly.php:57
+msgid "All"
+msgstr ""
+
+#: elements/site-logo.php:181
+msgid "Angle (deg)"
+msgstr ""
+
+#: elements/typeout.php:58
+msgid "Animated Text"
+msgstr ""
+
+#: elements/typeout.php:252
+msgid "Animated Text Color"
+msgstr ""
+
+#: elements/typeout.php:265
+msgid "Animated Text Typography"
+msgstr ""
+
+#: elements/content-ticker.php:349
+msgid "Animation"
+msgstr ""
+
+#: elements/content-ticker.php:334
+msgid "Animation Direction"
+msgstr ""
+
+#: elements/content-ticker.php:308 elements/content-ticker.php:321
+msgid "Animation Speed"
+msgstr ""
+
+#: elements/progress-bar.php:177
+msgid "Animation Time(ms)"
+msgstr ""
+
+#: elements/slider.php:1280
+msgid "Arrow"
+msgstr ""
+
+#: includes/elementor-helper.php:411 elements/icon-box.php:229
+#: elements/icon-box.php:319 elements/icon-box.php:385
+#: elements/testimonial.php:210 elements/content-ticker.php:222
+msgid "Arrows"
+msgstr ""
+
+#: elements/content-ticker.php:238
+msgid "Arrows Position"
+msgstr ""
+
+#: includes/elementor-helper.php:105 elements/post-tab.php:100
+#: elements/blog-block.php:288 elements/blog-grid.php:232
+msgid "Ascending"
+msgstr ""
+
+#: elements/blog-list.php:258 elements/slider.php:495
+#: elements/blog-grid.php:356
+msgid "Author Color"
+msgstr ""
+
+#: includes/elementor-helper.php:366 elements/blog-block.php:500
+#: elements/blog-block.php:682
+msgid "Author Position"
+msgstr ""
+
+#: elements/blog-list.php:270 elements/slider.php:510
+#: elements/blog-grid.php:368
+msgid "Author Typography"
+msgstr ""
+
+#: includes/elementor-helper.php:63 elements/blog-block.php:251
+#: elements/blog-grid.php:193
+msgid "Authors"
+msgstr ""
+
+#: includes/elementor-helper.php:493 elements/icon-box.php:255
+#: elements/icon-box.php:332 elements/icon-box.php:398
+#: elements/content-ticker.php:272
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elementor-helper.php:506 elements/icon-box.php:268
+#: elements/icon-box.php:345 elements/icon-box.php:411
+#: elements/content-ticker.php:284 elements/content-ticker.php:296
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elements/flip-box.php:304 elements/flip-box.php:311
+#: elements/flip-box.php:709 elements/flip-box.php:857
+msgid "Back"
+msgstr ""
+
+#: elements/flip-box.php:415
+msgid "Back Background Color"
+msgstr ""
+
+#: elements/typeout.php:122
+msgid "Back Delay"
+msgstr ""
+
+#: elements/flip-box.php:397
+msgid "Back Title"
+msgstr ""
+
+#: elements/typeout.php:110
+msgid "Back Type Speed"
+msgstr ""
+
+#: elements/nav-menu.php:451 elements/nav-menu.php:545
+#: elements/carousel.php:290 elements/post-tab.php:292
+#: elements/post-tab.php:461 elements/post-tab.php:494
+#: elements/post-tab.php:538 elements/post-tab.php:616
+#: elements/progress-bar.php:208 elements/progress-bar.php:278
+#: elements/tablepress.php:208 elements/tablepress.php:395
+#: elements/tablepress.php:442 elements/tablepress.php:516
+#: elements/team.php:864 elements/alert.php:116 elements/flip-box.php:979
+#: elements/flip-box.php:1036 elements/slider.php:330 elements/slider.php:758
+#: elements/funfact.php:456 elements/icon-box.php:776 elements/icon-box.php:836
+#: elements/testimonial.php:552 elements/content-ticker.php:395
+#: elements/content-ticker.php:540 elements/content-ticker.php:567
+msgid "Background"
+msgstr ""
+
+#: elements/nav-menu.php:175 elements/nav-menu.php:209
+#: elements/nav-menu.php:243 elements/nav-menu.php:320
+#: elements/nav-menu.php:362 elements/nav-menu.php:404
+#: elements/post-tab.php:1041 elements/modal-popup.php:126
+#: elements/modal-popup.php:224 elements/modal-popup.php:389
+#: elements/modal-popup.php:430 elements/scroll-to-top.php:284
+#: elements/pricing-table.php:242 elements/pricing-table.php:383
+#: elements/pricing-table.php:617 elements/pricing-table.php:749
+#: elements/pricing-table.php:848 elements/pricing-table.php:880
+#: elements/video.php:310 elements/alert.php:220 elements/funfact.php:174
+#: elements/funfact.php:226 elements/icon-box.php:763 elements/icon-box.php:823
+#: elements/image-comparison.php:467
+msgid "Background Color"
+msgstr ""
+
+#: elements/video.php:343
+msgid "Background Color "
+msgstr ""
+
+#: elements/video.php:46 elements/slider.php:319
+msgid "Background Image"
+msgstr ""
+
+#: elements/video.php:201
+msgid "Background Image Height"
+msgstr ""
+
+#: elements/video.php:228
+msgid "Background Image Overlay"
+msgstr ""
+
+#: elements/video.php:240
+msgid "Background Image Overlay Radius"
+msgstr ""
+
+#: elements/team.php:884
+msgid "Background: Hover"
+msgstr ""
+
+#: elements/modal-popup.php:458 elements/flip-box.php:537
+#: elements/image-comparison.php:55
+msgid "Before"
+msgstr ""
+
+#: elements/typeout.php:49
+msgid "Before Text"
+msgstr ""
+
+#: includes/elementor-helper.php:307 includes/elementor-helper.php:339
+#: includes/elementor-helper.php:371 elements/blog-block.php:445
+#: elements/blog-block.php:475 elements/blog-block.php:505
+#: elements/blog-block.php:627 elements/blog-block.php:657
+#: elements/blog-block.php:687
+msgid "Before Title"
+msgstr ""
+
+#: elements/tablepress.php:319
+msgid "Body"
+msgstr ""
+
+#: elements/tablepress.php:127
+msgid "Body Alignment"
+msgstr ""
+
+#: elements/post-tab.php:350 elements/post-tab.php:430
+#: elements/post-tab.php:1053 elements/tablepress.php:540
+#: elements/video.php:181 elements/funfact.php:186 elements/funfact.php:238
+#: elements/icon-box.php:795 elements/icon-box.php:855
+#: elements/image-comparison.php:505
+msgid "Border"
+msgstr ""
+
+#: elements/post-tab.php:506 elements/post-tab.php:550
+#: elements/tablepress.php:283 elements/tablepress.php:418
+#: elements/tablepress.php:465 elements/slider.php:1302
+msgid "Border Color"
+msgstr ""
+
+#: elements/nav-menu.php:468 elements/carousel.php:486
+#: elements/carousel.php:581 elements/post-tab.php:328
+#: elements/post-tab.php:417 elements/post-tab.php:652
+#: elements/post-tab.php:688 elements/modal-popup.php:140
+#: elements/modal-popup.php:253 elements/modal-popup.php:338
+#: elements/progress-bar.php:247 elements/scroll-to-top.php:296
+#: elements/blog-block.php:1193 elements/blog-block.php:1287
+#: elements/pricing-table.php:794 elements/video.php:189
+#: elements/products.php:372 elements/products.php:494
+#: elements/site-logo.php:221 elements/alert.php:128 elements/alert.php:242
+#: elements/flip-box.php:581 elements/flip-box.php:615
+#: elements/flip-box.php:990 elements/blog-list.php:719
+#: elements/blog-list.php:814 elements/blog-list.php:969
+#: elements/blog-list.php:1064 elements/slider.php:957 elements/slider.php:1052
+#: elements/blog-grid.php:707 elements/blog-grid.php:801
+#: elements/funfact.php:194 elements/funfact.php:246 elements/icon-box.php:890
+#: elements/image-comparison.php:246
+msgid "Border Radius"
+msgstr ""
+
+#: elements/image-comparison.php:513
+msgid "Border radius"
+msgstr ""
+
+#: elements/tablepress.php:244 elements/tablepress.php:327
+#: elements/flip-box.php:573
+msgid "Border Style"
+msgstr ""
+
+#: elements/carousel.php:463 elements/carousel.php:558
+#: elements/tablepress.php:264 elements/tablepress.php:347
+#: elements/blog-block.php:1170 elements/blog-block.php:1264
+#: elements/products.php:341 elements/products.php:463
+#: elements/blog-list.php:696 elements/blog-list.php:791
+#: elements/blog-list.php:946 elements/blog-list.php:1041
+#: elements/slider.php:934 elements/slider.php:1029 elements/blog-grid.php:684
+#: elements/blog-grid.php:778
+msgid "Border Width"
+msgstr ""
+
+#: elements/carousel.php:156 elements/post-tab.php:164
+#: elements/scroll-to-top.php:61 elements/flip-box.php:83
+#: elements/content-ticker.php:97
+msgid "Bottom"
+msgstr ""
+
+#: elements/scroll-to-top.php:52
+msgid "Bottom Left"
+msgstr ""
+
+#: elements/scroll-to-top.php:53
+msgid "Bottom Right"
+msgstr ""
+
+#: elements/funfact.php:371
+msgid "Bottom Spacing"
+msgstr ""
+
+#: elements/content-ticker.php:341
+msgid "Bottom to Top"
+msgstr ""
+
+#: elements/flip-box.php:480
+msgid "Box"
+msgstr ""
+
+#: elements/flip-box.php:155
+msgid "Box Content Alignment"
+msgstr ""
+
+#: elements/carousel.php:499 elements/carousel.php:594
+#: elements/post-tab.php:341 elements/blog-block.php:1206
+#: elements/blog-block.php:1300 elements/products.php:389
+#: elements/products.php:511 elements/blog-list.php:732
+#: elements/blog-list.php:827 elements/blog-list.php:982
+#: elements/blog-list.php:1077 elements/slider.php:970 elements/slider.php:1065
+#: elements/blog-grid.php:720 elements/blog-grid.php:814
+#: elements/icon-box.php:786 elements/icon-box.php:846
+msgid "Box Shadow"
+msgstr ""
+
+#: elements/modal-popup.php:293 elements/pricing-table.php:190
+#: elements/pricing-table.php:741 elements/flip-box.php:482
+#: elements/icon-box.php:725
+msgid "Button"
+msgstr ""
+
+#: elements/carousel.php:432 elements/blog-block.php:1139
+#: elements/search.php:154 elements/products.php:302 elements/blog-list.php:665
+#: elements/blog-list.php:915 elements/slider.php:903
+#: elements/blog-grid.php:654
+msgid "Button Background Color"
+msgstr ""
+
+#: elements/carousel.php:527 elements/blog-block.php:1234
+#: elements/products.php:424 elements/blog-list.php:760
+#: elements/blog-list.php:1010 elements/slider.php:998
+#: elements/blog-grid.php:748
+msgid "Button Background Color: Hover"
+msgstr ""
+
+#: elements/search.php:165
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elements/carousel.php:475 elements/carousel.php:570
+#: elements/blog-block.php:1182 elements/blog-block.php:1276
+#: elements/products.php:357 elements/products.php:479
+#: elements/blog-list.php:708 elements/blog-list.php:803
+#: elements/blog-list.php:958 elements/blog-list.php:1053
+#: elements/slider.php:946 elements/slider.php:1041 elements/blog-grid.php:696
+#: elements/blog-grid.php:790
+msgid "Button Border Color"
+msgstr ""
+
+#: elements/modal-popup.php:278 elements/flip-box.php:520
+msgid "Button Icon"
+msgstr ""
+
+#: elements/icon-box.php:73
+msgid "Button Label"
+msgstr ""
+
+#: elements/icon-box.php:83
+msgid "Button Link"
+msgstr ""
+
+#: elements/flip-box.php:925
+msgid "Button Style"
+msgstr ""
+
+#: elements/carousel.php:402 elements/blog-block.php:1106
+#: elements/products.php:268 elements/blog-list.php:632 elements/slider.php:870
+#: elements/blog-grid.php:622
+msgid "Button Styles"
+msgstr ""
+
+#: elements/modal-popup.php:268 elements/search.php:86
+#: elements/pricing-table.php:202 elements/flip-box.php:505
+msgid "Button Text"
+msgstr ""
+
+#: elements/carousel.php:421 elements/blog-block.php:1128
+#: elements/search.php:142 elements/products.php:287 elements/blog-list.php:654
+#: elements/blog-list.php:904 elements/slider.php:892
+#: elements/blog-grid.php:643
+msgid "Button Text Color"
+msgstr ""
+
+#: elements/carousel.php:516 elements/blog-block.php:1223
+#: elements/products.php:409 elements/blog-list.php:749
+#: elements/blog-list.php:999 elements/slider.php:987
+#: elements/blog-grid.php:737
+msgid "Button Text Color: Hover"
+msgstr ""
+
+#: elements/search.php:97
+msgid "Button Text Typography"
+msgstr ""
+
+#: elements/carousel.php:614 elements/modal-popup.php:330
+#: elements/blog-block.php:1321 elements/products.php:535
+#: elements/blog-list.php:847 elements/blog-list.php:1097
+#: elements/slider.php:1085 elements/blog-grid.php:834
+msgid "Button Typography"
+msgstr ""
+
+#: elements/calendly.php:17
+msgid "Calendly"
+msgstr ""
+
+#: elements/carousel.php:19
+msgid "Carousel"
+msgstr ""
+
+#: elements/blog-grid.php:278
+msgid "Carousel Setting"
+msgstr ""
+
+#: includes/elementor-helper.php:50 elements/blog-block.php:239
+#: elements/blog-grid.php:181
+msgid "Categories"
+msgstr ""
+
+#: includes/elementor-helper.php:302 elements/blog-block.php:440
+#: elements/blog-block.php:622
+msgid "Categories Position"
+msgstr ""
+
+#: elements/slider.php:121
+msgid "Category"
+msgstr ""
+
+#: elements/blog-block.php:781 elements/blog-list.php:297
+#: elements/slider.php:546 elements/blog-grid.php:405
+#: elements/blog-grid.php:425
+msgid "Category Color"
+msgstr ""
+
+#: elements/blog-block.php:801 elements/blog-list.php:317
+#: elements/slider.php:572
+msgid "Category Color hover"
+msgstr ""
+
+#: elements/blog-block.php:817 elements/blog-list.php:333
+#: elements/slider.php:591 elements/blog-grid.php:385
+msgid "Category Typography"
+msgstr ""
+
+#: elements/tablepress.php:366
+msgid "Cell Padding"
+msgstr ""
+
+#: elements/nav-menu.php:107 elements/carousel.php:360
+#: elements/post-tab.php:130 elements/modal-popup.php:312
+#: elements/typeout.php:212 elements/progress-bar.php:357
+#: elements/tablepress.php:109 elements/tablepress.php:135
+#: elements/search.php:113 elements/team.php:273 elements/team.php:328
+#: elements/team.php:387 elements/site-logo.php:77 elements/flip-box.php:103
+#: elements/slider.php:828 elements/testimonial.php:311
+#: elements/testimonial.php:365 elements/testimonial.php:420
+#: elements/content-ticker.php:412 elements/content-ticker.php:635
+msgid "Center"
+msgstr ""
+
+#: elements/slider.php:140
+msgid "Center Bottom"
+msgstr ""
+
+#: elements/slider.php:139
+msgid "Center Center"
+msgstr ""
+
+#: elements/slider.php:138
+msgid "Center Top"
+msgstr ""
+
+#: includes/elementor-helper.php:187 elements/blog-block.php:359
+#: elements/blog-block.php:540 elements/slider.php:215
+msgid "Choose heading tag for Post title."
+msgstr ""
+
+#: elements/carousel.php:56 elements/team.php:69
+#: elements/image-comparison.php:64 elements/image-comparison.php:95
+#: elements/testimonial.php:78
+msgid "Choose Image"
+msgstr ""
+
+#: elements/pricing-table.php:205
+msgid "Choose Plan"
+msgstr ""
+
+#: elements/progress-bar.php:63 elements/team.php:776
+#: elements/testimonial.php:451
+msgid "Circle"
+msgstr ""
+
+#: elements/search.php:51
+msgid "Classic"
+msgstr ""
+
+#: elements/modal-popup.php:270
+msgid "Click Me"
+msgstr ""
+
+#: elements/image-comparison.php:218
+msgid "Click To Move"
+msgstr ""
+
+#: elements/modal-popup.php:497
+msgid "Close Button"
+msgstr ""
+
+#: elements/nav-menu.php:590
+msgid "Close Color"
+msgstr ""
+
+#: elements/alert.php:342
+msgid "Close Icon"
+msgstr ""
+
+#: elements/post-tab.php:449 elements/post-tab.php:482
+#: elements/post-tab.php:526 elements/post-tab.php:742
+#: elements/post-tab.php:762 elements/post-tab.php:1006
+#: elements/post-tab.php:1030 elements/modal-popup.php:505
+#: elements/typeout.php:236 elements/progress-bar.php:309
+#: elements/progress-bar.php:382 elements/progress-bar.php:424
+#: elements/tablepress.php:163 elements/tablepress.php:505
+#: elements/pricing-table.php:279 elements/pricing-table.php:309
+#: elements/pricing-table.php:420 elements/pricing-table.php:450
+#: elements/pricing-table.php:483 elements/pricing-table.php:521
+#: elements/pricing-table.php:556 elements/pricing-table.php:677
+#: elements/pricing-table.php:705 elements/pricing-table.php:836
+#: elements/pricing-table.php:868 elements/team.php:244 elements/team.php:299
+#: elements/video.php:297 elements/video.php:331 elements/video.php:458
+#: elements/alert.php:208 elements/alert.php:275 elements/alert.php:317
+#: elements/alert.php:350 elements/flip-box.php:655 elements/flip-box.php:726
+#: elements/flip-box.php:808 elements/flip-box.php:836
+#: elements/flip-box.php:872 elements/flip-box.php:900
+#: elements/flip-box.php:968 elements/flip-box.php:1025
+#: elements/blog-list.php:537 elements/slider.php:1289 elements/funfact.php:163
+#: elements/funfact.php:215 elements/funfact.php:422 elements/funfact.php:484
+#: elements/funfact.php:512 elements/icon-box.php:440 elements/icon-box.php:461
+#: elements/testimonial.php:336 elements/testimonial.php:391
+#: elements/content-ticker.php:373 elements/content-ticker.php:438
+#: elements/content-ticker.php:494
+msgid "Color"
+msgstr ""
+
+#: elements/flip-box.php:785
+msgid "Color &amp; Typography"
+msgstr ""
+
+#: elements/progress-bar.php:319
+msgid "Color 1"
+msgstr ""
+
+#: elements/progress-bar.php:329
+msgid "Color 2"
+msgstr ""
+
+#: elements/testimonial.php:279
+msgid "Color hover"
+msgstr ""
+
+#: elements/blog-grid.php:584
+msgid "Column Gap"
+msgstr ""
+
+#: controls/make-column-clickable.php:25
+msgid "Column Link"
+msgstr ""
+
+#: elements/blog-block.php:1050 elements/products.php:213
+msgid "Columns Gap"
+msgstr ""
+
+#: elements/team.php:218 elements/testimonial.php:179
+msgid "Columns to Show"
+msgstr ""
+
+#: elements/post-tab.php:871
+msgid "Comment and Categories Meta"
+msgstr ""
+
+#: elements/post-tab.php:880
+msgid "Comment and Categories Meta Gap"
+msgstr ""
+
+#: elements/team.php:61 elements/testimonial.php:70
+#: elements/testimonial.php:130
+msgid "Company Name"
+msgstr ""
+
+#: elements/video.php:172 elements/alert.php:108
+#: elements/image-comparison.php:228
+msgid "Container"
+msgstr ""
+
+#: elements/content-ticker.php:598
+msgid "Container Height"
+msgstr ""
+
+#: elements/carousel.php:323 elements/team.php:922 elements/slider.php:791
+#: elements/testimonial.php:585
+msgid "Container Min. Height"
+msgstr ""
+
+#: elements/post-tab.php:567 elements/flip-box.php:281
+#: elements/flip-box.php:404 elements/funfact.php:320 elements/icon-box.php:564
+#: elements/content-ticker.php:172 elements/content-ticker.php:475
+msgid "Content"
+msgstr ""
+
+#: elements/carousel.php:282 elements/team.php:845 elements/slider.php:750
+#: elements/testimonial.php:544 elements/content-ticker.php:558
+msgid "Content Container"
+msgstr ""
+
+#: elements/blog-list.php:412 elements/slider.php:720
+msgid "Content Description Color"
+msgstr ""
+
+#: elements/blog-list.php:424 elements/slider.php:732
+msgid "Content Description Typography"
+msgstr ""
+
+#: elements/blog-grid.php:573
+msgid "Content Margin"
+msgstr ""
+
+#: elements/flip-box.php:559
+msgid "Content Padding"
+msgstr ""
+
+#: elements/carousel.php:47
+msgid "Content Setting"
+msgstr ""
+
+#: elements/flip-box.php:827 elements/flip-box.php:891
+msgid "Content Style"
+msgstr ""
+
+#: elements/content-ticker.php:19
+msgid "Content Ticker"
+msgstr ""
+
+#: elements/blog-list.php:360 elements/slider.php:645
+msgid "Content Title Color"
+msgstr ""
+
+#: elements/blog-list.php:380 elements/slider.php:687
+msgid "Content Title Color: Hover"
+msgstr ""
+
+#: elements/blog-list.php:396 elements/slider.php:704
+msgid "Content Title Typography"
+msgstr ""
+
+#: elements/content-ticker.php:76
+msgid "Content Type"
+msgstr ""
+
+#: elements/blog-list.php:119
+msgid "Content Width"
+msgstr ""
+
+#: includes/queries.php:457
+msgid "Create a Table First"
+msgstr ""
+
+#: elements/pricing-table.php:101
+msgid "Currency Symbol"
+msgstr ""
+
+#: elements/slider.php:122 elements/content-ticker.php:82
+msgid "Custom"
+msgstr ""
+
+#: elements/content-ticker.php:159
+msgid "Custom Content"
+msgstr ""
+
+#: elements/slider.php:301
+msgid "Custom Slider"
+msgstr ""
+
+#: elements/tablepress.php:252 elements/tablepress.php:335
+#: elements/blog-block.php:1157 elements/blog-block.php:1252
+#: elements/products.php:324 elements/products.php:446
+#: elements/blog-list.php:521 elements/blog-list.php:683
+#: elements/blog-list.php:778 elements/blog-list.php:933
+#: elements/blog-list.php:1028 elements/blog-grid.php:672
+#: elements/blog-grid.php:766
+msgid "Dashed"
+msgstr ""
+
+#: elements/post-tab.php:83
+msgid "Date"
+msgstr ""
+
+#: elements/blog-block.php:742 elements/blog-list.php:230
+#: elements/slider.php:459 elements/blog-grid.php:328
+msgid "Date Color"
+msgstr ""
+
+#: includes/elementor-helper.php:334 elements/blog-block.php:470
+#: elements/blog-block.php:652
+msgid "Date Position"
+msgstr ""
+
+#: elements/blog-block.php:754 elements/blog-list.php:242
+#: elements/slider.php:474 elements/blog-grid.php:340
+msgid "Date Typography"
+msgstr ""
+
+#: elements/post-tab.php:87
+msgid "Day"
+msgstr ""
+
+#: elements/nav-menu.php:89 elements/search.php:50
+#: elements/content-ticker.php:94 elements/content-ticker.php:353
+msgid "Default"
+msgstr ""
+
+#: includes/elementor-helper.php:104 elements/post-tab.php:101
+#: elements/blog-block.php:287 elements/blog-grid.php:231
+msgid "Descending"
+msgstr ""
+
+#: elements/alert.php:97 elements/alert.php:301 elements/icon-box.php:649
+#: elements/testimonial.php:114 elements/testimonial.php:383
+msgid "Description"
+msgstr ""
+
+#: elements/carousel.php:252 elements/blog-grid.php:509
+msgid "Description Color"
+msgstr ""
+
+#: elements/carousel.php:264 elements/blog-grid.php:521
+msgid "Description Typography"
+msgstr ""
+
+#: elements/team.php:203 elements/testimonial.php:151
+msgid "Design Layout"
+msgstr ""
+
+#: elements/team.php:182
+msgid "Developer"
+msgstr ""
+
+#: elements/progress-bar.php:58
+msgid "Display Style"
+msgstr ""
+
+#: elements/blog-list.php:503
+msgid "Divider"
+msgstr ""
+
+#: elements/blog-list.php:607
+msgid "Divider Gap"
+msgstr ""
+
+#: elements/blog-list.php:552
+msgid "Divider Weight"
+msgstr ""
+
+#: elements/blog-list.php:577
+msgid "Divider Width"
+msgstr ""
+
+#: includes/elementor-helper.php:424 elements/slider.php:1327
+#: elements/icon-box.php:216 elements/icon-box.php:306
+#: elements/icon-box.php:372 elements/testimonial.php:222
+msgid "Dots"
+msgstr ""
+
+#: includes/elementor-helper.php:437
+msgid "Dots Position"
+msgstr ""
+
+#: elements/tablepress.php:251 elements/tablepress.php:334
+#: elements/blog-block.php:1156 elements/blog-block.php:1251
+#: elements/products.php:323 elements/products.php:445
+#: elements/blog-list.php:520 elements/blog-list.php:682
+#: elements/blog-list.php:777 elements/blog-list.php:932
+#: elements/blog-list.php:1027 elements/blog-grid.php:671
+#: elements/blog-grid.php:765
+msgid "Dotted"
+msgstr ""
+
+#: elements/tablepress.php:250 elements/tablepress.php:333
+#: elements/blog-block.php:1155 elements/blog-block.php:1250
+#: elements/products.php:322 elements/products.php:444
+#: elements/blog-list.php:519 elements/blog-list.php:681
+#: elements/blog-list.php:776 elements/blog-list.php:931
+#: elements/blog-list.php:1026 elements/blog-grid.php:670
+#: elements/blog-grid.php:764
+msgid "Double"
+msgstr ""
+
+#: elements/blog-block.php:714 elements/blog-list.php:202
+#: elements/blog-grid.php:300
+msgid "Element Color"
+msgstr ""
+
+#: elements/blog-block.php:38 elements/blog-list.php:38
+#: elements/blog-grid.php:47
+msgid "Element Title"
+msgstr ""
+
+#: elements/blog-block.php:726 elements/blog-list.php:214
+#: elements/blog-grid.php:312
+msgid "Element Typography"
+msgstr ""
+
+#: ut-elementor-addons-lite.php:223
+msgid "Elementor"
+msgstr ""
+
+#: elements/blog-grid.php:151
+msgid "Enable Carousel"
+msgstr ""
+
+#: elements/alert.php:46
+msgid "Enable Icon"
+msgstr ""
+
+#: elements/image-comparison.php:161
+msgid "Enable Overlay On Hover"
+msgstr ""
+
+#: elements/pricing-table.php:339
+msgid "Enable Separator"
+msgstr ""
+
+#: elements/testimonial.php:166
+msgid "Enable Slider"
+msgstr ""
+
+#: elements/progress-bar.php:91
+msgid "Enable Stripe"
+msgstr ""
+
+#: elements/progress-bar.php:101
+msgid "Enable Stripe Animation"
+msgstr ""
+
+#: elements/alert.php:73
+msgid "Enable Title"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Enhance your Elementor page-building experience with creative elements and "
+"extensions offered by Ultra Addons Lite for Elementor."
+msgstr ""
+
+#: includes/elementor-helper.php:226 elements/blog-block.php:394
+#: elements/blog-block.php:576 elements/slider.php:251
+msgid "Enter Length for contents in letters or leave blank to hide content"
+msgstr ""
+
+#: includes/elementor-helper.php:251 elements/blog-block.php:417
+#: elements/blog-block.php:599 elements/slider.php:274
+msgid "Enter text for Read More button or leave it blank to hide"
+msgstr ""
+
+#: elements/blog-block.php:39 elements/blog-list.php:39
+#: elements/blog-grid.php:48
+msgid "Enter text to change element title."
+msgstr ""
+
+#: elements/post-tab.php:60
+msgid "Enter the number of posts to display."
+msgstr ""
+
+#: elements/post-tab.php:73
+msgid "Enter the number of words you want to display in the excerpt."
+msgstr ""
+
+#: elements/typeout.php:60
+msgid "Enter your animated text with comma separated."
+msgstr ""
+
+#: elements/pricing-table.php:50
+msgid "Enter your description"
+msgstr ""
+
+#: elements/modal-popup.php:211
+msgid "Enter your shortcode"
+msgstr ""
+
+#: elements/pricing-table.php:41
+msgid "Enter your title"
+msgstr ""
+
+#: includes/elementor-helper.php:209 elements/post-tab.php:967
+#: elements/blog-block.php:380 elements/slider.php:236
+msgid "Excerpt"
+msgstr ""
+
+#: elements/post-tab.php:67
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/elementor-helper.php:89 elements/blog-block.php:273
+#: elements/blog-grid.php:217
+msgid "Exclude Posts"
+msgstr ""
+
+#: elements/modal-popup.php:54
+msgid "External Page"
+msgstr ""
+
+#: elements/modal-popup.php:185
+msgid "External Video"
+msgstr ""
+
+#: elements/team.php:425
+msgid "Facebook Background Color"
+msgstr ""
+
+#: elements/team.php:601
+msgid "Facebook Background Color: Hover"
+msgstr ""
+
+#: elements/team.php:414
+msgid "Facebook Color"
+msgstr ""
+
+#: elements/team.php:590
+msgid "Facebook Color: Hover"
+msgstr ""
+
+#: elements/team.php:90
+msgid "Facebook Link"
+msgstr ""
+
+#: elements/content-ticker.php:355
+msgid "Fade"
+msgstr ""
+
+#: elements/blog-block.php:220
+msgid "Fallback Image"
+msgstr ""
+
+#: elements/blog-list.php:153 elements/slider.php:164
+#: elements/blog-grid.php:163
+msgid "Fallback Image:"
+msgstr ""
+
+#: elements/icon-box.php:115
+msgid "fas fa-snowflake"
+msgstr ""
+
+#: elements/pricing-table.php:582
+msgid "Feature List"
+msgstr ""
+
+#: elements/pricing-table.php:133
+msgid "Features"
+msgstr ""
+
+#: elements/progress-bar.php:228 elements/progress-bar.php:287
+msgid "Filing Color"
+msgstr ""
+
+#: elements/flip-box.php:551
+msgid "Filp Box Style"
+msgstr ""
+
+#: elements/tablepress.php:497
+msgid "Filter And Search"
+msgstr ""
+
+#: elements/post-tab.php:121 elements/post-tab.php:151
+msgid "Filter Tab Alignment"
+msgstr ""
+
+#: elements/post-tab.php:575
+msgid "Filter Tab Column Gap"
+msgstr ""
+
+#: elements/post-tab.php:181
+msgid "Filter Tab Position"
+msgstr ""
+
+#: elements/flip-box.php:51
+msgid "Flip Bottom"
+msgstr ""
+
+#: elements/flip-box.php:17
+msgid "Flip Box"
+msgstr ""
+
+#: elements/flip-box.php:48
+msgid "Flip Left"
+msgstr ""
+
+#: elements/flip-box.php:49
+msgid "Flip Right"
+msgstr ""
+
+#: elements/flip-box.php:50
+msgid "Flip Top"
+msgstr ""
+
+#: elements/flip-box.php:148
+msgid "Flipbox Content"
+msgstr ""
+
+#: elements/flip-box.php:36
+msgid "Flipbox Settings"
+msgstr ""
+
+#: elements/flip-box.php:43
+msgid "Flipbox Type"
+msgstr ""
+
+#: elements/pricing-table.php:183
+msgid "Footer"
+msgstr ""
+
+#: elements/tablepress.php:79
+msgid "Footer Info Hide"
+msgstr ""
+
+#: elements/tablepress.php:186
+msgid "Footer Text And Navigation gap"
+msgstr ""
+
+#: elements/typeout.php:71
+msgid "For You."
+msgstr ""
+
+#: elements/flip-box.php:181 elements/flip-box.php:188
+#: elements/flip-box.php:649 elements/flip-box.php:794
+msgid "Front"
+msgstr ""
+
+#: elements/flip-box.php:292
+msgid "Front Background Color"
+msgstr ""
+
+#: elements/flip-box.php:274
+msgid "Front Title"
+msgstr ""
+
+#: elements/funfact.php:15
+msgid "Fun Fact"
+msgstr ""
+
+#: elements/modal-popup.php:38 elements/marquee.php:36 elements/marquee.php:69
+#: elements/typeout.php:42 elements/typeout.php:159
+#: elements/scroll-to-top.php:40 elements/circle-text.php:44
+#: elements/circle-text.php:77 elements/team.php:38 elements/products.php:31
+#: elements/site-logo.php:34 elements/site-logo.php:100 elements/alert.php:38
+#: elements/calendly.php:35 elements/funfact.php:38 elements/icon-box.php:44
+#: elements/image-comparison.php:48 elements/testimonial.php:47
+msgid "General"
+msgstr ""
+
+#: elements/carousel.php:187 elements/blog-block.php:706
+#: elements/products.php:79 elements/blog-list.php:194 elements/slider.php:451
+#: elements/blog-grid.php:292
+msgid "General Styles"
+msgstr ""
+
+#: elements/flip-box.php:510
+msgid "Get Started"
+msgstr ""
+
+#: elements/nav-menu.php:68
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: elements/progress-bar.php:301
+msgid "Gradient"
+msgstr ""
+
+#: elements/blog-block.php:139
+msgid "Grid"
+msgstr ""
+
+#: elements/tablepress.php:253 elements/tablepress.php:336
+#: elements/blog-block.php:1158 elements/blog-block.php:1253
+#: elements/products.php:325 elements/products.php:447
+#: elements/blog-list.php:522 elements/blog-list.php:684
+#: elements/blog-list.php:779 elements/blog-list.php:934
+#: elements/blog-list.php:1029 elements/blog-grid.php:673
+#: elements/blog-grid.php:767
+msgid "Groove"
+msgstr ""
+
+#: includes/elementor-helper.php:192 elements/typeout.php:173
+#: elements/blog-block.php:364 elements/blog-block.php:545
+#: elements/slider.php:220
+msgid "H1"
+msgstr ""
+
+#: includes/elementor-helper.php:193 elements/typeout.php:177
+#: elements/blog-block.php:365 elements/blog-block.php:546
+#: elements/slider.php:221
+msgid "H2"
+msgstr ""
+
+#: includes/elementor-helper.php:194 elements/typeout.php:181
+#: elements/blog-block.php:366 elements/blog-block.php:547
+#: elements/slider.php:222
+msgid "H3"
+msgstr ""
+
+#: includes/elementor-helper.php:195 elements/typeout.php:185
+#: elements/blog-block.php:367 elements/blog-block.php:548
+#: elements/slider.php:223
+msgid "H4"
+msgstr ""
+
+#: includes/elementor-helper.php:196 elements/typeout.php:189
+#: elements/blog-block.php:368 elements/blog-block.php:549
+#: elements/slider.php:224
+msgid "H5"
+msgstr ""
+
+#: includes/elementor-helper.php:197 elements/typeout.php:193
+#: elements/blog-block.php:369 elements/blog-block.php:550
+#: elements/slider.php:225
+msgid "H6"
+msgstr ""
+
+#: elements/nav-menu.php:90
+msgid "Hamburger "
+msgstr ""
+
+#: elements/image-comparison.php:148
+msgid "Handle Bar Type"
+msgstr ""
+
+#: elements/image-comparison.php:275
+msgid "Handler"
+msgstr ""
+
+#: elements/image-comparison.php:360
+msgid "Handler Background"
+msgstr ""
+
+#: elements/image-comparison.php:371
+msgid "Handler Bar Color"
+msgstr ""
+
+#: elements/image-comparison.php:407
+msgid "Handler Border"
+msgstr ""
+
+#: elements/image-comparison.php:382
+msgid "Handler Border Color"
+msgstr ""
+
+#: elements/image-comparison.php:393
+msgid "Handler Icon Color"
+msgstr ""
+
+#: elements/tablepress.php:200 elements/pricing-table.php:31
+#: elements/pricing-table.php:234
+msgid "Header"
+msgstr ""
+
+#: elements/tablepress.php:101
+msgid "Header Alignment"
+msgstr ""
+
+#: elements/content-ticker.php:365
+msgid "Heading"
+msgstr ""
+
+#: elements/content-ticker.php:90
+msgid "Heading Position"
+msgstr ""
+
+#: elements/content-ticker.php:54
+msgid "Heading Title"
+msgstr ""
+
+#: elements/content-ticker.php:105
+msgid "Heading Width"
+msgstr ""
+
+#: elements/marquee.php:106 elements/progress-bar.php:114
+#: elements/scroll-to-top.php:189 elements/flip-box.php:122
+#: elements/image-comparison.php:336
+msgid "Height"
+msgstr ""
+
+#: includes/elementor-helper.php:177 includes/elementor-helper.php:213
+#: includes/elementor-helper.php:241 elements/post-tab.php:224
+#: elements/post-tab.php:236 elements/post-tab.php:248
+#: elements/post-tab.php:260 elements/post-tab.php:272
+#: elements/blog-block.php:350 elements/blog-block.php:384
+#: elements/blog-block.php:408 elements/blog-block.php:531
+#: elements/blog-block.php:565 elements/blog-block.php:590
+#: elements/pricing-table.php:593 elements/blog-list.php:507
+#: elements/slider.php:206 elements/slider.php:240 elements/slider.php:265
+msgid "Hide"
+msgstr ""
+
+#: elements/funfact.php:99
+msgid "Hide / Show"
+msgstr ""
+
+#: elements/icon-box.php:127
+msgid "Hide / Show Settings"
+msgstr ""
+
+#: elements/icon-box.php:171
+msgid "Hide Button"
+msgstr ""
+
+#: elements/icon-box.php:159
+msgid "Hide Description"
+msgstr ""
+
+#: elements/funfact.php:108 elements/icon-box.php:135
+msgid "Hide Icon"
+msgstr ""
+
+#: elements/funfact.php:120
+msgid "Hide Number Counter"
+msgstr ""
+
+#: elements/funfact.php:132 elements/icon-box.php:147
+msgid "Hide Title"
+msgstr ""
+
+#: elements/nav-menu.php:128 elements/image-comparison.php:152
+msgid "Horizontal"
+msgstr ""
+
+#: elements/flip-box.php:94
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: elements/nav-menu.php:189 elements/nav-menu.php:355
+#: elements/carousel.php:509 elements/post-tab.php:475
+#: elements/post-tab.php:755 elements/post-tab.php:848
+#: elements/post-tab.php:943 elements/modal-popup.php:411
+#: elements/blog-block.php:794 elements/blog-block.php:857
+#: elements/blog-block.php:947 elements/blog-block.php:1216
+#: elements/pricing-table.php:861 elements/team.php:583 elements/team.php:877
+#: elements/video.php:324 elements/products.php:149 elements/products.php:402
+#: elements/flip-box.php:1018 elements/blog-list.php:310
+#: elements/blog-list.php:373 elements/blog-list.php:742
+#: elements/blog-list.php:992 elements/slider.php:562 elements/slider.php:659
+#: elements/slider.php:980 elements/blog-grid.php:418
+#: elements/blog-grid.php:480 elements/blog-grid.php:730
+#: elements/funfact.php:208 elements/funfact.php:505 elements/icon-box.php:454
+#: elements/icon-box.php:805 elements/testimonial.php:273
+#: elements/content-ticker.php:507
+msgid "Hover"
+msgstr ""
+
+#: elements/tablepress.php:220
+msgid "Hover And Active Background"
+msgstr ""
+
+#: elements/site-logo.php:204
+msgid "Hover Animation"
+msgstr ""
+
+#: elements/tablepress.php:484
+msgid "Hover Background"
+msgstr ""
+
+#: elements/slider.php:1314
+msgid "Hover Background Color"
+msgstr ""
+
+#: elements/post-tab.php:855 elements/post-tab.php:950
+#: elements/icon-box.php:592 elements/icon-box.php:670
+#: elements/content-ticker.php:514
+msgid "Hover Color"
+msgstr ""
+
+#: elements/modal-popup.php:50
+msgid "HTML Content"
+msgstr ""
+
+#: elements/typeout.php:167 elements/site-logo.php:49
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ultrapress.uncodethemes.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://uncodethemes.com"
+msgstr ""
+
+#: elements/slider.php:360
+msgid "https://www.youtube.com/watch?v=71EZb94AS1k"
+msgstr ""
+
+#: elements/carousel.php:99 elements/blog-list.php:173 elements/slider.php:408
+#: elements/icon-box.php:85 elements/content-ticker.php:184
+#: controls/make-column-clickable.php:27
+msgid "https://your-link.com"
+msgstr ""
+
+#: elements/scroll-to-top.php:235 elements/search.php:72 elements/search.php:76
+#: elements/pricing-table.php:697 elements/video.php:132 elements/video.php:141
+#: elements/video.php:254 elements/alert.php:58 elements/alert.php:175
+#: elements/flip-box.php:201 elements/flip-box.php:224
+#: elements/flip-box.php:324 elements/flip-box.php:347 elements/funfact.php:46
+#: elements/icon-box.php:93 elements/icon-box.php:423
+#: elements/content-ticker.php:430
+msgid "Icon"
+msgstr ""
+
+#: elements/icon-box.php:15
+msgid "Icon Box"
+msgstr ""
+
+#: elements/icon-box.php:106
+msgid "Icon box"
+msgstr ""
+
+#: elements/scroll-to-top.php:271 elements/search.php:131
+msgid "Icon Color"
+msgstr ""
+
+#: elements/modal-popup.php:454 elements/flip-box.php:532
+msgid "Icon Position"
+msgstr ""
+
+#: elements/scroll-to-top.php:247 elements/video.php:359
+#: elements/flip-box.php:669 elements/flip-box.php:740
+#: elements/icon-box.php:477
+msgid "Icon Size"
+msgstr ""
+
+#: elements/pricing-table.php:649
+msgid "Icon Space"
+msgstr ""
+
+#: elements/modal-popup.php:471
+msgid "Icon Spacing"
+msgstr ""
+
+#: elements/flip-box.php:637 elements/flip-box.php:715
+msgid "Icon Style"
+msgstr ""
+
+#: elements/team.php:346 elements/funfact.php:146
+msgid "Icons"
+msgstr ""
+
+#: elements/carousel.php:751 elements/post-tab.php:664
+#: elements/modal-popup.php:49 elements/modal-popup.php:63
+#: elements/team.php:763 elements/video.php:133 elements/video.php:156
+#: elements/flip-box.php:200 elements/flip-box.php:210
+#: elements/flip-box.php:323 elements/flip-box.php:333
+#: elements/testimonial.php:438
+msgid "Image"
+msgstr ""
+
+#: elements/blog-block.php:1024 elements/products.php:87
+#: elements/blog-list.php:450 elements/blog-grid.php:547
+msgid "Image & Content Gap"
+msgstr ""
+
+#: elements/site-logo.php:213
+msgid "Image Border"
+msgstr ""
+
+#: elements/image-comparison.php:18
+msgid "Image Comparison"
+msgstr ""
+
+#: elements/carousel.php:144
+msgid "Image Position"
+msgstr ""
+
+#: elements/carousel.php:759
+msgid "Image Radius"
+msgstr ""
+
+#: elements/blog-list.php:57 elements/blog-grid.php:66
+msgid "Image Ratio"
+msgstr ""
+
+#: elements/flip-box.php:240 elements/flip-box.php:363
+msgid "Image Resizer"
+msgstr ""
+
+#: elements/carousel.php:174 elements/blog-list.php:48 elements/slider.php:152
+#: elements/blog-grid.php:57
+msgid "Image Size"
+msgstr ""
+
+#: elements/team.php:771 elements/flip-box.php:604 elements/testimonial.php:446
+msgid "Image Style"
+msgstr ""
+
+#: elements/blog-list.php:85 elements/blog-grid.php:94
+msgid "Image Width"
+msgstr ""
+
+#: elements/slider.php:1348
+msgid "In Active Color"
+msgstr ""
+
+#: includes/elementor-helper.php:467
+msgid "Infinite Loop"
+msgstr ""
+
+#: elements/blog-block.php:1016 elements/products.php:205
+#: elements/blog-list.php:442 elements/blog-grid.php:539
+msgid "Inner Styles"
+msgstr ""
+
+#: includes/elementor-helper.php:441
+msgid "Inside Slider"
+msgstr ""
+
+#: elements/team.php:541
+msgid "Instagram Background Color"
+msgstr ""
+
+#: elements/team.php:717
+msgid "Instagram Background Color: Hover"
+msgstr ""
+
+#: elements/team.php:530
+msgid "Instagram Color"
+msgstr ""
+
+#: elements/team.php:706
+msgid "Instagram Color: Hover"
+msgstr ""
+
+#: elements/team.php:146
+msgid "Instagram Link"
+msgstr ""
+
+#: elements/team.php:51 elements/team.php:181 elements/testimonial.php:60
+#: elements/testimonial.php:129
+msgid "John Doe"
+msgstr ""
+
+#: elements/site-logo.php:85
+msgid "Justified"
+msgstr ""
+
+#: elements/image-comparison.php:447
+msgid "Label"
+msgstr ""
+
+#: elements/nav-menu.php:124 elements/search.php:46
+msgid "Layout"
+msgstr ""
+
+#: elements/team.php:207 elements/testimonial.php:155
+msgid "Layout 1"
+msgstr ""
+
+#: elements/team.php:208 elements/testimonial.php:156
+msgid "Layout 2"
+msgstr ""
+
+#: elements/team.php:209 elements/testimonial.php:157
+msgid "Layout 3"
+msgstr ""
+
+#: elements/carousel.php:148 elements/carousel.php:356
+#: elements/post-tab.php:126 elements/post-tab.php:186
+#: elements/modal-popup.php:308 elements/typeout.php:208
+#: elements/progress-bar.php:353 elements/tablepress.php:105
+#: elements/tablepress.php:131 elements/scroll-to-top.php:94
+#: elements/blog-block.php:53 elements/search.php:109 elements/team.php:269
+#: elements/team.php:324 elements/team.php:383 elements/site-logo.php:73
+#: elements/flip-box.php:99 elements/flip-box.php:160 elements/slider.php:824
+#: elements/testimonial.php:307 elements/testimonial.php:361
+#: elements/testimonial.php:416 elements/content-ticker.php:243
+#: elements/content-ticker.php:408 elements/content-ticker.php:631
+msgid "Left"
+msgstr ""
+
+#: elements/slider.php:137
+msgid "Left Bottom"
+msgstr ""
+
+#: elements/slider.php:136
+msgid "Left Center"
+msgstr ""
+
+#: elements/content-ticker.php:339
+msgid "Left to Right"
+msgstr ""
+
+#: elements/slider.php:135
+msgid "Left Top"
+msgstr ""
+
+#: elements/progress-bar.php:62
+msgid "Line Bar"
+msgstr ""
+
+#: elements/carousel.php:97 elements/pricing-table.php:215
+#: elements/flip-box.php:468 elements/flip-box.php:490 elements/slider.php:406
+#: elements/testimonial.php:99 elements/content-ticker.php:182
+msgid "Link"
+msgstr ""
+
+#: elements/flip-box.php:475
+msgid "Link Type"
+msgstr ""
+
+#: elements/team.php:512
+msgid "Linkedin Background Color"
+msgstr ""
+
+#: elements/team.php:688
+msgid "Linkedin Background Color: Hover"
+msgstr ""
+
+#: elements/team.php:501
+msgid "Linkedin Color"
+msgstr ""
+
+#: elements/team.php:677
+msgid "Linkedin Color: Hover"
+msgstr ""
+
+#: elements/team.php:131
+msgid "Linkedin Link"
+msgstr ""
+
+#: elements/blog-block.php:140
+msgid "List"
+msgstr ""
+
+#: elements/pricing-table.php:590
+msgid "List Border Bottom"
+msgstr ""
+
+#: elements/pricing-table.php:602
+msgid "List Border Bottom Color"
+msgstr ""
+
+#: elements/carousel.php:79 elements/slider.php:389
+msgid "List Content"
+msgstr ""
+
+#: elements/pricing-table.php:152
+msgid "List Icon"
+msgstr ""
+
+#: elements/pricing-table.php:142
+msgid "List Item"
+msgstr ""
+
+#: elements/typeout.php:133
+msgid "Loop"
+msgstr ""
+
+#: elements/testimonial.php:116 elements/testimonial.php:132
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut leo euismod, "
+"tempor libero eget, varius tortor. Vestibulum est turpis, viverra eget dolor "
+"non, mollis elementum arcu."
+msgstr ""
+
+#: elements/content-ticker.php:202
+msgid "Lorem Ipsum is simply dummy text of the printing."
+msgstr ""
+
+#: elements/content-ticker.php:174
+msgid "Lorem Ipsum is simply dummy text of the printing. "
+msgstr ""
+
+#: elements/funfact.php:81
+msgid "M"
+msgstr ""
+
+#: elements/funfact.php:82
+msgid "M+"
+msgstr ""
+
+#: elements/nav-menu.php:139
+msgid "Main Menu"
+msgstr ""
+
+#: elements/blog-block.php:339
+msgid "Main Post"
+msgstr ""
+
+#: elements/blog-block.php:896
+msgid "Main Post Excerpt Color"
+msgstr ""
+
+#: elements/blog-block.php:908
+msgid "Main Post Excerpt Typography"
+msgstr ""
+
+#: elements/blog-block.php:71
+msgid "Main Post Image Ratio"
+msgstr ""
+
+#: elements/blog-block.php:99
+msgid "Main Post Image Width"
+msgstr ""
+
+#: elements/blog-block.php:48
+msgid "Main Post Position"
+msgstr ""
+
+#: elements/blog-block.php:844
+msgid "Main Post Title Color"
+msgstr ""
+
+#: elements/blog-block.php:864
+msgid "Main Post Title Color: Hover"
+msgstr ""
+
+#: elements/blog-block.php:880
+msgid "Main Post Title Typography"
+msgstr ""
+
+#: elements/nav-menu.php:500 elements/carousel.php:376
+#: elements/carousel.php:623 elements/post-tab.php:316
+#: elements/post-tab.php:385 elements/post-tab.php:640
+#: elements/post-tab.php:672 elements/post-tab.php:709
+#: elements/post-tab.php:804 elements/post-tab.php:898
+#: elements/post-tab.php:979 elements/marquee.php:126
+#: elements/blog-block.php:1330 elements/circle-text.php:105
+#: elements/pricing-table.php:762 elements/team.php:951 elements/video.php:275
+#: elements/video.php:435 elements/video.php:495 elements/products.php:548
+#: elements/alert.php:287 elements/alert.php:328 elements/flip-box.php:944
+#: elements/blog-list.php:856 elements/blog-list.php:1106
+#: elements/slider.php:844 elements/slider.php:1094 elements/blog-grid.php:843
+#: elements/funfact.php:284 elements/funfact.php:442 elements/icon-box.php:540
+#: elements/icon-box.php:612 elements/icon-box.php:690
+#: elements/icon-box.php:878 elements/testimonial.php:614
+#: elements/content-ticker.php:651
+msgid "Margin"
+msgstr ""
+
+#: elements/content-ticker.php:354
+msgid "Marquee"
+msgstr ""
+
+#: elements/marquee.php:53
+msgid "Marquee Duration (Seconds)"
+msgstr ""
+
+#: elements/marquee.php:17
+msgid "Marquee Text"
+msgstr ""
+
+#: elements/site-logo.php:134
+msgid "Max Width"
+msgstr ""
+
+#: elements/team.php:815 elements/testimonial.php:515
+msgid "Max. Width"
+msgstr ""
+
+#: elements/circle-text.php:53
+msgid "MEET THE TRENDS OF THE SEASON"
+msgstr ""
+
+#: elements/nav-menu.php:63
+msgid "Menu"
+msgstr ""
+
+#: elements/nav-menu.php:148 elements/nav-menu.php:566
+msgid "Menu Item"
+msgstr ""
+
+#: elements/post-tab.php:86
+msgid "Menu Order"
+msgstr ""
+
+#: elements/post-tab.php:160 elements/flip-box.php:79 elements/flip-box.php:164
+msgid "Middle"
+msgstr ""
+
+#: elements/post-tab.php:1022
+msgid "Mobile Dropdown"
+msgstr ""
+
+#: elements/nav-menu.php:86
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: elements/icon-box.php:355
+msgid "Mobile Settings"
+msgstr ""
+
+#: elements/modal-popup.php:15
+msgid "Modal Popup"
+msgstr ""
+
+#: elements/modal-popup.php:45
+msgid "Modal Type"
+msgstr ""
+
+#: elements/pricing-table.php:114
+msgid "month"
+msgstr ""
+
+#: elements/image-comparison.php:212
+msgid "Move Slider"
+msgstr ""
+
+#: elements/image-comparison.php:216
+msgid "Move Slider On Hover"
+msgstr ""
+
+#: elements/image-comparison.php:217
+msgid "Move With Handle Only"
+msgstr ""
+
+#: elements/team.php:49 elements/team.php:236 elements/testimonial.php:58
+#: elements/testimonial.php:242 elements/testimonial.php:261
+msgid "Name"
+msgstr ""
+
+#: elements/tablepress.php:57
+msgid "Nav Hide"
+msgstr ""
+
+#: elements/nav-menu.php:17 elements/nav-menu.php:52
+msgid "Nav Menu"
+msgstr ""
+
+#: elements/content-ticker.php:56
+msgid "News Highlights"
+msgstr ""
+
+#: includes/elementor-helper.php:293 includes/elementor-helper.php:325
+#: includes/elementor-helper.php:357 includes/elementor-helper.php:415
+#: includes/elementor-helper.php:428 includes/elementor-helper.php:471
+#: includes/elementor-helper.php:484 includes/elementor-helper.php:497
+#: includes/elementor-helper.php:520 elements/blog-block.php:432
+#: elements/blog-block.php:462 elements/blog-block.php:492
+#: elements/blog-block.php:614 elements/blog-block.php:644
+#: elements/blog-block.php:674 elements/pricing-table.php:80
+#: elements/pricing-table.php:194 elements/blog-grid.php:155
+#: elements/icon-box.php:221 elements/icon-box.php:234
+#: elements/icon-box.php:247 elements/icon-box.php:260
+#: elements/icon-box.php:311 elements/icon-box.php:324
+#: elements/icon-box.php:337 elements/icon-box.php:377
+#: elements/icon-box.php:390 elements/icon-box.php:403
+#: elements/testimonial.php:170 elements/testimonial.php:214
+#: elements/testimonial.php:226 elements/content-ticker.php:226
+#: elements/content-ticker.php:276
+msgid "No"
+msgstr ""
+
+#: includes/queries.php:424
+msgid "No sidebars were found"
+msgstr ""
+
+#: elements/products.php:38 elements/blog-grid.php:128
+msgid "No. of Columns:"
+msgstr ""
+
+#: includes/elementor-helper.php:136 elements/blog-block.php:316
+#: elements/blog-grid.php:260 elements/content-ticker.php:145
+msgid "No. of Post"
+msgstr ""
+
+#: elements/products.php:65
+msgid "No. of Products"
+msgstr ""
+
+#: elements/tablepress.php:248 elements/tablepress.php:331
+#: elements/blog-block.php:1153 elements/blog-block.php:1248
+#: elements/products.php:320 elements/products.php:442
+#: elements/flip-box.php:199 elements/flip-box.php:322
+#: elements/flip-box.php:479 elements/blog-list.php:679
+#: elements/blog-list.php:774 elements/blog-list.php:929
+#: elements/blog-list.php:1024 elements/blog-grid.php:668
+#: elements/blog-grid.php:762
+msgid "None"
+msgstr ""
+
+#: elements/nav-menu.php:157 elements/nav-menu.php:313
+#: elements/carousel.php:414 elements/post-tab.php:442
+#: elements/post-tab.php:735 elements/post-tab.php:827
+#: elements/post-tab.php:921 elements/modal-popup.php:370
+#: elements/progress-bar.php:300 elements/tablepress.php:388
+#: elements/blog-block.php:774 elements/blog-block.php:837
+#: elements/blog-block.php:927 elements/blog-block.php:1121
+#: elements/pricing-table.php:829 elements/team.php:407 elements/team.php:857
+#: elements/video.php:290 elements/products.php:117 elements/products.php:280
+#: elements/flip-box.php:938 elements/blog-list.php:290
+#: elements/blog-list.php:353 elements/blog-list.php:647
+#: elements/blog-list.php:897 elements/slider.php:536 elements/slider.php:617
+#: elements/slider.php:885 elements/blog-grid.php:398
+#: elements/blog-grid.php:460 elements/blog-grid.php:636
+#: elements/funfact.php:156 elements/funfact.php:478 elements/icon-box.php:433
+#: elements/icon-box.php:744 elements/testimonial.php:254
+#: elements/content-ticker.php:487
+msgid "Normal"
+msgstr ""
+
+#: elements/post-tab.php:834 elements/post-tab.php:928
+#: elements/icon-box.php:580 elements/icon-box.php:658
+msgid "Normal Color"
+msgstr ""
+
+#: elements/funfact.php:69
+msgid "Number"
+msgstr ""
+
+#: elements/funfact.php:337
+msgid "Number Color"
+msgstr ""
+
+#: elements/funfact.php:328
+msgid "Number Count"
+msgstr ""
+
+#: elements/funfact.php:59
+msgid "Number Prefix"
+msgstr ""
+
+#: elements/funfact.php:79
+msgid "Number Suffix"
+msgstr ""
+
+#: elements/typeout.php:136 elements/pricing-table.php:342
+msgid "OFF"
+msgstr ""
+
+#: elements/typeout.php:148 elements/alert.php:49 elements/alert.php:76
+#: elements/image-comparison.php:165
+msgid "Off"
+msgstr ""
+
+#: includes/elementor-helper.php:126 elements/blog-block.php:307
+#: elements/blog-grid.php:251 elements/image-comparison.php:126
+msgid "Offset"
+msgstr ""
+
+#: elements/typeout.php:135 elements/pricing-table.php:341
+msgid "ON"
+msgstr ""
+
+#: elements/typeout.php:147 elements/alert.php:48 elements/alert.php:75
+#: elements/image-comparison.php:164
+msgid "On"
+msgstr ""
+
+#: elements/pricing-table.php:76
+msgid "On Sale?"
+msgstr ""
+
+#: elements/flip-box.php:437
+msgid "Opacity"
+msgstr ""
+
+#: elements/site-logo.php:160
+msgid "Opacity (%)"
+msgstr ""
+
+#: includes/elementor-helper.php:101 elements/post-tab.php:97
+#: elements/blog-block.php:284 elements/blog-grid.php:228
+msgid "Order"
+msgstr ""
+
+#: includes/elementor-helper.php:115 elements/post-tab.php:80
+#: elements/blog-block.php:297 elements/blog-grid.php:241
+msgid "Order By"
+msgstr ""
+
+#: elements/pricing-table.php:411
+msgid "Orginal Price"
+msgstr ""
+
+#: elements/pricing-table.php:441
+msgid "Orginal Price Currency"
+msgstr ""
+
+#: includes/elementor-helper.php:442
+msgid "Outside Slider"
+msgstr ""
+
+#: elements/flip-box.php:428
+msgid "Overlay"
+msgstr ""
+
+#: elements/image-comparison.php:200
+msgid "Overlay After Text(On Hover)"
+msgstr ""
+
+#: elements/flip-box.php:457
+msgid "Overlay Background"
+msgstr ""
+
+#: elements/image-comparison.php:188
+msgid "Overlay Before Text(On Hover)"
+msgstr ""
+
+#: elements/image-comparison.php:173
+msgid "Overlay Color"
+msgstr ""
+
+#: elements/nav-menu.php:269 elements/nav-menu.php:513
+#: elements/carousel.php:388 elements/carousel.php:635
+#: elements/post-tab.php:304 elements/post-tab.php:397
+#: elements/post-tab.php:628 elements/modal-popup.php:238
+#: elements/modal-popup.php:351 elements/marquee.php:142
+#: elements/progress-bar.php:394 elements/progress-bar.php:436
+#: elements/tablepress.php:298 elements/tablepress.php:527
+#: elements/blog-block.php:1342 elements/pricing-table.php:254
+#: elements/pricing-table.php:395 elements/pricing-table.php:630
+#: elements/pricing-table.php:778 elements/team.php:963 elements/video.php:262
+#: elements/video.php:423 elements/video.php:479 elements/products.php:564
+#: elements/alert.php:139 elements/alert.php:231 elements/flip-box.php:696
+#: elements/flip-box.php:767 elements/flip-box.php:956
+#: elements/blog-list.php:868 elements/blog-list.php:1118
+#: elements/slider.php:856 elements/slider.php:1106 elements/blog-grid.php:855
+#: elements/funfact.php:297 elements/funfact.php:464 elements/icon-box.php:629
+#: elements/icon-box.php:707 elements/icon-box.php:865
+#: elements/image-comparison.php:491 elements/testimonial.php:626
+#: elements/content-ticker.php:663
+msgid "Padding"
+msgstr ""
+
+#: elements/tablepress.php:174
+msgid "Pagination And Serach Gap"
+msgstr ""
+
+#: elements/tablepress.php:90
+msgid "Pagination Hide"
+msgstr ""
+
+#: includes/elementor-helper.php:480 elements/icon-box.php:242
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/pricing-table.php:111
+msgid "Period"
+msgstr ""
+
+#: elements/pricing-table.php:121
+msgid "Period Separator"
+msgstr ""
+
+#: elements/modal-popup.php:201
+msgid "Place External Page URL"
+msgstr ""
+
+#: elements/modal-popup.php:174 elements/modal-popup.php:175
+msgid "Place Vimeo Video URL"
+msgstr ""
+
+#: elements/modal-popup.php:159 elements/modal-popup.php:160
+msgid "Place Youtube Video URL"
+msgstr ""
+
+#: elements/search.php:59
+msgid "Placeholder"
+msgstr ""
+
+#: elements/video.php:111
+msgid "Play Button"
+msgstr ""
+
+#: elements/video.php:388
+msgid "Play Button Image"
+msgstr ""
+
+#: elements/video.php:396
+msgid "Play Button Image Size"
+msgstr ""
+
+#: ut-elementor-addons-lite.php:224
+msgid "Please click here to install/activate Elementor"
+msgstr ""
+
+#: elements/nav-menu.php:537
+msgid "Please switch to responsive mode to configure settings."
+msgstr ""
+
+#: elements/scroll-to-top.php:47
+msgid "Position"
+msgstr ""
+
+#: elements/content-ticker.php:81
+msgid "Post"
+msgstr ""
+
+#: elements/blog-block.php:15
+msgid "Post Block"
+msgstr ""
+
+#: includes/elementor-helper.php:165 elements/blog-block.php:327
+#: elements/slider.php:192
+msgid "Post Content"
+msgstr ""
+
+#: includes/elementor-helper.php:223 elements/blog-block.php:392
+#: elements/slider.php:248
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: elements/blog-grid.php:15
+msgid "Post Grid"
+msgstr ""
+
+#: elements/blog-list.php:15
+msgid "Post List"
+msgstr ""
+
+#: includes/elementor-helper.php:281 elements/slider.php:287
+msgid "Post Meta"
+msgstr ""
+
+#: elements/post-tab.php:15
+msgid "Post Tab"
+msgstr ""
+
+#: includes/elementor-helper.php:173 elements/blog-block.php:346
+#: elements/slider.php:202
+msgid "Post Title"
+msgstr ""
+
+#: includes/elementor-helper.php:186 elements/blog-block.php:358
+#: elements/slider.php:214
+msgid "Post Title Tag"
+msgstr ""
+
+#: includes/elementor-helper.php:37
+msgid "Post Type"
+msgstr ""
+
+#: elements/pricing-table.php:66
+msgid "Price"
+msgstr ""
+
+#: elements/products.php:135 elements/products.php:167
+msgid "Price Color"
+msgstr ""
+
+#: elements/products.php:194
+msgid "Price Typography"
+msgstr ""
+
+#: elements/pricing-table.php:59 elements/pricing-table.php:331
+msgid "Pricing"
+msgstr ""
+
+#: elements/pricing-table.php:547
+msgid "Pricing Period"
+msgstr ""
+
+#: elements/pricing-table.php:15
+msgid "Pricing Table"
+msgstr ""
+
+#: elements/pricing-table.php:145
+msgid "Pricing table list item"
+msgstr ""
+
+#: elements/blog-block.php:63
+msgid "Primary Image Size"
+msgstr ""
+
+#: elements/products.php:54
+msgid "Product Categories"
+msgstr ""
+
+#: elements/progress-bar.php:12
+msgid "Progress Bar"
+msgstr ""
+
+#: elements/progress-bar.php:219
+msgid "Progress Bar Background"
+msgstr ""
+
+#: elements/progress-bar.php:238
+msgid "Progress Bar Color"
+msgstr ""
+
+#: elements/progress-bar.php:51
+msgid "Progress Bar Settings"
+msgstr ""
+
+#: elements/progress-bar.php:199
+msgid "Progressbar"
+msgstr ""
+
+#: elements/progress-bar.php:269
+msgid "Progressbar Style"
+msgstr ""
+
+#: elements/modal-popup.php:197
+msgid "Provide External URL"
+msgstr ""
+
+#: elements/modal-popup.php:170
+msgid "Provide Vimeo Video URL"
+msgstr ""
+
+#: elements/modal-popup.php:155
+msgid "Provide Youtube Video URL"
+msgstr ""
+
+#: includes/elementor-helper.php:29 elements/post-tab.php:39
+#: elements/blog-block.php:232 elements/slider.php:178
+#: elements/blog-grid.php:174 elements/content-ticker.php:133
+msgid "Query"
+msgstr ""
+
+#: elements/tablepress.php:550 elements/image-comparison.php:433
+msgid "Radius"
+msgstr ""
+
+#: elements/post-tab.php:85
+msgid "Random"
+msgstr ""
+
+#: includes/elementor-helper.php:237 elements/carousel.php:89
+#: elements/carousel.php:119 elements/carousel.php:129
+#: elements/blog-block.php:404 elements/blog-block.php:1390
+#: elements/blog-block.php:1418 elements/blog-list.php:1153
+#: elements/slider.php:261 elements/slider.php:398 elements/slider.php:429
+#: elements/slider.php:1437 elements/blog-grid.php:890 elements/icon-box.php:75
+#: elements/icon-box.php:113 elements/content-ticker.php:772
+msgid "Read More"
+msgstr ""
+
+#: includes/elementor-helper.php:250 elements/blog-block.php:416
+#: elements/slider.php:273
+msgid "Read More Text"
+msgstr ""
+
+#: elements/nav-menu.php:528
+msgid "Responsive Menu"
+msgstr ""
+
+#: elements/nav-menu.php:111 elements/carousel.php:160
+#: elements/carousel.php:364 elements/post-tab.php:134
+#: elements/post-tab.php:194 elements/modal-popup.php:316
+#: elements/typeout.php:216 elements/progress-bar.php:361
+#: elements/tablepress.php:113 elements/tablepress.php:139
+#: elements/scroll-to-top.php:130 elements/blog-block.php:54
+#: elements/search.php:117 elements/team.php:277 elements/team.php:332
+#: elements/team.php:391 elements/site-logo.php:81 elements/flip-box.php:107
+#: elements/flip-box.php:168 elements/slider.php:832
+#: elements/testimonial.php:315 elements/testimonial.php:369
+#: elements/testimonial.php:424 elements/content-ticker.php:96
+#: elements/content-ticker.php:242 elements/content-ticker.php:416
+#: elements/content-ticker.php:639
+msgid "Right"
+msgstr ""
+
+#: elements/slider.php:143
+msgid "Right Bottom"
+msgstr ""
+
+#: elements/slider.php:142
+msgid "Right Center"
+msgstr ""
+
+#: elements/funfact.php:394
+msgid "Right Spacing"
+msgstr ""
+
+#: elements/content-ticker.php:338
+msgid "Right to left"
+msgstr ""
+
+#: elements/slider.php:141
+msgid "Right Top"
+msgstr ""
+
+#: elements/blog-grid.php:602
+msgid "Row Gap"
+msgstr ""
+
+#: elements/blog-block.php:1077 elements/products.php:240
+#: elements/blog-list.php:476
+msgid "Rows Gap"
+msgstr ""
+
+#: elements/pricing-table.php:88 elements/pricing-table.php:471
+msgid "Sale Price"
+msgstr ""
+
+#: elements/pricing-table.php:509
+msgid "Sale Price Currency"
+msgstr ""
+
+#: elements/scroll-to-top.php:17
+msgid "Scroll To Top"
+msgstr ""
+
+#: elements/search.php:18 elements/search.php:40 elements/search.php:88
+msgid "Search"
+msgstr ""
+
+#: elements/search.php:61
+msgid "Search ..."
+msgstr ""
+
+#: elements/search.php:69
+msgid "Search Button Type"
+msgstr ""
+
+#: elements/search.php:201
+msgid "Search for:"
+msgstr ""
+
+#: elements/tablepress.php:68
+msgid "Search Hide"
+msgstr ""
+
+#: elements/blog-block.php:561
+msgid "Secondary Excerpt"
+msgstr ""
+
+#: elements/blog-block.php:185
+msgid "Secondary Image Width"
+msgstr ""
+
+#: elements/blog-block.php:520
+msgid "Secondary Post"
+msgstr ""
+
+#: elements/blog-block.php:986
+msgid "Secondary Post Excerpt Color"
+msgstr ""
+
+#: elements/blog-block.php:573
+msgid "Secondary Post Excerpt Length"
+msgstr ""
+
+#: elements/blog-block.php:998
+msgid "Secondary Post Excerpt Typography"
+msgstr ""
+
+#: elements/blog-block.php:157
+msgid "Secondary Post Image Ratio"
+msgstr ""
+
+#: elements/blog-block.php:149
+msgid "Secondary Post Image Size"
+msgstr ""
+
+#: elements/blog-block.php:134
+msgid "Secondary Post Layout"
+msgstr ""
+
+#: elements/blog-block.php:527
+msgid "Secondary Post Title"
+msgstr ""
+
+#: elements/blog-block.php:934
+msgid "Secondary Post Title Color"
+msgstr ""
+
+#: elements/blog-block.php:954
+msgid "Secondary Post Title Color: Hover"
+msgstr ""
+
+#: elements/blog-block.php:539
+msgid "Secondary Post Title Tag"
+msgstr ""
+
+#: elements/blog-block.php:970
+msgid "Secondary Post Title Typography"
+msgstr ""
+
+#: elements/blog-block.php:586
+msgid "Secondary Read More"
+msgstr ""
+
+#: elements/blog-block.php:598
+msgid "Secondary Read More Text"
+msgstr ""
+
+#: elements/blog-block.php:31 elements/blog-list.php:31 elements/slider.php:39
+#: elements/blog-grid.php:40
+msgid "Section Setting"
+msgstr ""
+
+#: elements/post-tab.php:46
+msgid "Select Categories"
+msgstr ""
+
+#: elements/post-tab.php:205
+msgid "Select Column"
+msgstr ""
+
+#: elements/video.php:99 elements/slider.php:346
+msgid "Select file from media library or upload"
+msgstr ""
+
+#: includes/queries.php:379
+msgid "Select Menu"
+msgstr ""
+
+#: includes/queries.php:426
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/queries.php:448 elements/tablepress.php:46
+msgid "Select Table"
+msgstr ""
+
+#: includes/queries.php:402
+msgid "Select Template"
+msgstr ""
+
+#: elements/post-tab.php:141 elements/post-tab.php:171
+msgid "Select the alignment for the filter tab."
+msgstr ""
+
+#: elements/post-tab.php:214
+msgid "Select the number of columns to display."
+msgstr ""
+
+#: elements/post-tab.php:104
+msgid "Select the order for the posts."
+msgstr ""
+
+#: elements/post-tab.php:90
+msgid "Select the order type for the posts."
+msgstr ""
+
+#: elements/post-tab.php:198
+msgid "Select the position of the filter tab."
+msgstr ""
+
+#: elements/video.php:95 elements/slider.php:342
+msgid "Select Video File "
+msgstr ""
+
+#: elements/modal-popup.php:53 elements/video.php:73 elements/slider.php:321
+msgid "Self Hosted Video"
+msgstr ""
+
+#: elements/pricing-table.php:367
+msgid "Separator Color"
+msgstr ""
+
+#: elements/pricing-table.php:351
+msgid "Separator Height"
+msgstr ""
+
+#: elements/content-ticker.php:311 elements/content-ticker.php:324
+msgid "Set Autoplay Speed 0 and animation 5000 for marquee"
+msgstr ""
+
+#: elements/post-tab.php:113 elements/typeout.php:78 elements/team.php:195
+#: elements/image-comparison.php:119 elements/testimonial.php:144
+#: elements/content-ticker.php:46
+msgid "Settings"
+msgstr ""
+
+#: includes/queries.php:488 elements/modal-popup.php:55
+msgid "Shortcode"
+msgstr ""
+
+#: includes/elementor-helper.php:176 includes/elementor-helper.php:212
+#: includes/elementor-helper.php:240 elements/post-tab.php:223
+#: elements/post-tab.php:235 elements/post-tab.php:247
+#: elements/post-tab.php:259 elements/post-tab.php:271
+#: elements/blog-block.php:349 elements/blog-block.php:383
+#: elements/blog-block.php:407 elements/blog-block.php:530
+#: elements/blog-block.php:564 elements/blog-block.php:589
+#: elements/pricing-table.php:592 elements/blog-list.php:506
+#: elements/slider.php:205 elements/slider.php:239 elements/slider.php:264
+msgid "Show"
+msgstr ""
+
+#: includes/elementor-helper.php:353 elements/blog-block.php:488
+#: elements/blog-block.php:670
+msgid "Show Author"
+msgstr ""
+
+#: includes/elementor-helper.php:289 elements/post-tab.php:269
+#: elements/blog-block.php:428 elements/blog-block.php:610
+msgid "Show Categories"
+msgstr ""
+
+#: elements/post-tab.php:257
+msgid "Show Comments"
+msgstr ""
+
+#: elements/typeout.php:145
+msgid "Show Cursor"
+msgstr ""
+
+#: includes/elementor-helper.php:321 elements/blog-block.php:458
+#: elements/blog-block.php:640
+msgid "Show Date"
+msgstr ""
+
+#: elements/post-tab.php:233
+msgid "Show Date Meta"
+msgstr ""
+
+#: elements/post-tab.php:245
+msgid "Show Excerpt"
+msgstr ""
+
+#: elements/post-tab.php:221
+msgid "Show User Meta"
+msgstr ""
+
+#: elements/site-logo.php:18
+msgid "Site Logo"
+msgstr ""
+
+#: elements/progress-bar.php:135 elements/pricing-table.php:718
+#: elements/team.php:354 elements/alert.php:186 elements/alert.php:361
+#: elements/slider.php:1360 elements/funfact.php:262
+#: elements/testimonial.php:491 elements/content-ticker.php:449
+msgid "Size"
+msgstr ""
+
+#: elements/carousel.php:117 elements/slider.php:426
+msgid "Slide 1"
+msgstr ""
+
+#: elements/carousel.php:127
+msgid "Slide 2"
+msgstr ""
+
+#: elements/carousel.php:87 elements/slider.php:396
+msgid "Slide Button"
+msgstr ""
+
+#: elements/carousel.php:77 elements/slider.php:387
+msgid "Slide Content"
+msgstr ""
+
+#: elements/carousel.php:118 elements/carousel.php:128 elements/slider.php:428
+msgid "Slide Content."
+msgstr ""
+
+#: elements/carousel.php:67 elements/carousel.php:69 elements/slider.php:378
+#: elements/slider.php:380
+msgid "Slide Title"
+msgstr ""
+
+#: elements/icon-box.php:204 elements/icon-box.php:294
+msgid "Slide to Scroll"
+msgstr ""
+
+#: elements/icon-box.php:192 elements/icon-box.php:285
+#: elements/icon-box.php:363
+msgid "Slide to Show"
+msgstr ""
+
+#: elements/slider.php:15
+msgid "Slider"
+msgstr ""
+
+#: elements/slider.php:130
+msgid "Slider Content Position"
+msgstr ""
+
+#: elements/carousel.php:195 elements/slider.php:70
+msgid "Slider Min. Height"
+msgstr ""
+
+#: elements/slider.php:1272
+msgid "Slider Navigation"
+msgstr ""
+
+#: includes/elementor-helper.php:403 elements/icon-box.php:185
+#: elements/testimonial.php:199 elements/content-ticker.php:214
+msgid "Slider Settings"
+msgstr ""
+
+#: elements/slider.php:116
+msgid "Slider Type"
+msgstr ""
+
+#: elements/slider.php:46
+msgid "Slider Width"
+msgstr ""
+
+#: elements/carousel.php:112 elements/slider.php:421
+msgid "Slides"
+msgstr ""
+
+#: includes/elementor-helper.php:454 elements/content-ticker.php:254
+msgid "Slides to Show"
+msgstr ""
+
+#: elements/tablepress.php:249 elements/tablepress.php:332
+#: elements/blog-block.php:1154 elements/blog-block.php:1249
+#: elements/products.php:321 elements/products.php:443
+#: elements/blog-list.php:518 elements/blog-list.php:680
+#: elements/blog-list.php:775 elements/blog-list.php:930
+#: elements/blog-list.php:1025 elements/blog-grid.php:669
+#: elements/blog-grid.php:763
+msgid "Solid"
+msgstr ""
+
+#: elements/nav-menu.php:281
+msgid "Space Between Items"
+msgstr ""
+
+#: elements/team.php:775 elements/testimonial.php:450
+msgid "Square"
+msgstr ""
+
+#: elements/typeout.php:99
+msgid "Start Delay"
+msgstr ""
+
+#: elements/tablepress.php:435
+msgid "Stripe"
+msgstr ""
+
+#: elements/blog-block.php:1150 elements/blog-block.php:1245
+#: elements/products.php:317 elements/products.php:439
+#: elements/blog-list.php:515 elements/blog-list.php:676
+#: elements/blog-list.php:771 elements/blog-list.php:926
+#: elements/blog-list.php:1021 elements/blog-grid.php:665
+#: elements/blog-grid.php:759
+msgid "Style"
+msgstr ""
+
+#: elements/slider.php:427
+msgid "Sub 1"
+msgstr ""
+
+#: elements/nav-menu.php:295
+msgid "Sub Menu"
+msgstr ""
+
+#: elements/nav-menu.php:304
+msgid "Sub Menu Item"
+msgstr ""
+
+#: elements/pricing-table.php:299 elements/team.php:59 elements/team.php:291
+#: elements/slider.php:369 elements/slider.php:371 elements/testimonial.php:68
+#: elements/testimonial.php:328
+msgid "Sub Title"
+msgstr ""
+
+#: elements/slider.php:624 elements/slider.php:666
+msgid "Sub Title Color"
+msgstr ""
+
+#: elements/slider.php:636 elements/slider.php:678
+msgid "Sub Title Typography"
+msgstr ""
+
+#: elements/nav-menu.php:488
+msgid "Submenu Indent"
+msgstr ""
+
+#: elements/nav-menu.php:442
+msgid "Submenu Item Border"
+msgstr ""
+
+#: elements/icon-box.php:499
+msgid "SVG Size"
+msgstr ""
+
+#: includes/elementor-helper.php:516
+msgid "Swipe"
+msgstr ""
+
+#: elements/post-tab.php:283
+msgid "Tab"
+msgstr ""
+
+#: elements/post-tab.php:597
+msgid "Tab Content Column Gap"
+msgstr ""
+
+#: elements/post-tab.php:367
+msgid "Tab Gap"
+msgstr ""
+
+#: elements/post-tab.php:358
+msgid "Tab Item"
+msgstr ""
+
+#: elements/tablepress.php:39 elements/tablepress.php:155
+msgid "Table"
+msgstr ""
+
+#: elements/tablepress.php:16
+msgid "Table Press"
+msgstr ""
+
+#: elements/icon-box.php:277
+msgid "Tablet Settings"
+msgstr ""
+
+#: includes/elementor-helper.php:76 elements/blog-block.php:262
+#: elements/blog-grid.php:205
+msgid "Tags"
+msgstr ""
+
+#: elements/team.php:19
+msgid "Team"
+msgstr ""
+
+#: elements/team.php:176
+msgid "Teams"
+msgstr ""
+
+#: elements/testimonial.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: elements/testimonial.php:124
+msgid "Testimonials"
+msgstr ""
+
+#: elements/search.php:73 elements/search.php:75 elements/circle-text.php:51
+msgid "Text"
+msgstr ""
+
+#: elements/carousel.php:352 elements/slider.php:820
+#: elements/testimonial.php:303 elements/testimonial.php:357
+#: elements/testimonial.php:412 elements/content-ticker.php:404
+#: elements/content-ticker.php:627
+msgid "Text Alignment"
+msgstr ""
+
+#: elements/marquee.php:43
+msgid "Text Box"
+msgstr ""
+
+#: elements/nav-menu.php:164 elements/nav-menu.php:196
+#: elements/nav-menu.php:232 elements/nav-menu.php:336
+#: elements/nav-menu.php:378 elements/nav-menu.php:415
+#: elements/nav-menu.php:573 elements/modal-popup.php:100
+#: elements/modal-popup.php:377 elements/modal-popup.php:418
+#: elements/tablepress.php:232 elements/tablepress.php:407
+#: elements/tablepress.php:454 elements/icon-box.php:751
+#: elements/icon-box.php:812 elements/image-comparison.php:479
+msgid "Text Color"
+msgstr ""
+
+#: elements/circle-text.php:61
+msgid "Text Rotate Duration (Seconds)"
+msgstr ""
+
+#: elements/circle-text.php:17
+msgid "Text Rotator"
+msgstr ""
+
+#: elements/progress-bar.php:156
+msgid "Thickness"
+msgstr ""
+
+#: elements/typeout.php:51
+msgid "This is"
+msgstr ""
+
+#: elements/flip-box.php:407
+msgid "This is back side content."
+msgstr ""
+
+#: elements/flip-box.php:284
+msgid "This is front side content."
+msgstr ""
+
+#: elements/icon-box.php:65 elements/icon-box.php:112
+msgid "This is the description"
+msgstr ""
+
+#: elements/funfact.php:91 elements/icon-box.php:56 elements/icon-box.php:111
+msgid "This is the heading"
+msgstr ""
+
+#: elements/content-ticker.php:197
+msgid "Tickers"
+msgstr ""
+
+#: elements/calendly.php:51
+msgid "Time Slot"
+msgstr ""
+
+#: elements/post-tab.php:84 elements/post-tab.php:700
+#: elements/progress-bar.php:71 elements/pricing-table.php:270
+#: elements/pricing-table.php:669 elements/pricing-table.php:811
+#: elements/video.php:119 elements/video.php:450 elements/alert.php:85
+#: elements/alert.php:256 elements/flip-box.php:271 elements/flip-box.php:394
+#: elements/flip-box.php:481 elements/funfact.php:89 elements/funfact.php:413
+#: elements/icon-box.php:572
+msgid "Title"
+msgstr ""
+
+#: elements/progress-bar.php:341
+msgid "Title "
+msgstr ""
+
+#: elements/pricing-table.php:38 elements/icon-box.php:54
+msgid "Title & Description"
+msgstr ""
+
+#: elements/carousel.php:224 elements/marquee.php:85
+#: elements/circle-text.php:93 elements/products.php:124
+#: elements/products.php:156 elements/blog-grid.php:467
+msgid "Title Color"
+msgstr ""
+
+#: elements/blog-grid.php:487
+msgid "Title Color: Hover"
+msgstr ""
+
+#: elements/flip-box.php:800 elements/flip-box.php:864
+msgid "Title Style"
+msgstr ""
+
+#: elements/carousel.php:236 elements/products.php:184
+#: elements/blog-grid.php:448
+msgid "Title Typography"
+msgstr ""
+
+#: elements/nav-menu.php:554
+msgid "Toggle Button Color"
+msgstr ""
+
+#: elements/carousel.php:152 elements/post-tab.php:156
+#: elements/post-tab.php:190 elements/flip-box.php:75
+#: elements/content-ticker.php:95
+msgid "Top"
+msgstr ""
+
+#: elements/funfact.php:350
+msgid "Top Spacing"
+msgstr ""
+
+#: elements/post-tab.php:57
+msgid "Total Number of Post Per Category"
+msgstr ""
+
+#: elements/team.php:454
+msgid "Twitter Background Color"
+msgstr ""
+
+#: elements/team.php:630
+msgid "Twitter Background Color: Hover"
+msgstr ""
+
+#: elements/team.php:443
+msgid "Twitter Color"
+msgstr ""
+
+#: elements/team.php:619
+msgid "Twitter Color: Hover"
+msgstr ""
+
+#: elements/team.php:101
+msgid "Twitter Link"
+msgstr ""
+
+#: elements/progress-bar.php:296 elements/video.php:67 elements/video.php:127
+#: elements/flip-box.php:196 elements/flip-box.php:319 elements/slider.php:314
+msgid "Type"
+msgstr ""
+
+#: elements/typeout.php:16
+msgid "Type Out"
+msgstr ""
+
+#: elements/typeout.php:87
+msgid "Type Speed"
+msgstr ""
+
+#: elements/post-tab.php:817 elements/post-tab.php:911
+#: elements/post-tab.php:995 elements/modal-popup.php:115 elements/team.php:256
+#: elements/team.php:311 elements/video.php:471 elements/funfact.php:434
+#: elements/icon-box.php:734 elements/image-comparison.php:459
+#: elements/testimonial.php:294 elements/testimonial.php:348
+#: elements/testimonial.php:403 elements/content-ticker.php:385
+#: elements/content-ticker.php:530
+msgid "Typography"
+msgstr ""
+
+#: ut-elementor-addons-lite.php:103
+msgid "Ultra Addons Lite"
+msgstr ""
+
+#. Name of the plugin
+#: ut-elementor-addons-lite.php:222
+msgid "Ultra Addons Lite for Elementor"
+msgstr ""
+
+#: elements/marquee.php:45
+msgid ""
+"Ultra Addons Lite for Elementor provides Elementor addons. Enhance your "
+"Elementor page building experience with creative elements and extensions."
+msgstr ""
+
+#: elements/typeout.php:62
+msgid "Ultra, Addons, Lite"
+msgstr ""
+
+#. Author of the plugin
+msgid "Uncodethemes"
+msgstr ""
+
+#: elements/video.php:81 elements/slider.php:356
+msgid "URL"
+msgstr ""
+
+#: elements/video.php:98 elements/slider.php:345
+msgid "URL to File"
+msgstr ""
+
+#: elements/post-tab.php:777
+msgid "User and Date Meta"
+msgstr ""
+
+#: elements/post-tab.php:786
+msgid "User and Date Meta Gap"
+msgstr ""
+
+#: elements/calendly.php:42
+msgid "Username"
+msgstr ""
+
+#: elements/calendly.php:44
+msgid "Username here"
+msgstr ""
+
+#: elements/progress-bar.php:80 elements/progress-bar.php:408
+msgid "Value"
+msgstr ""
+
+#: elements/nav-menu.php:129 elements/image-comparison.php:153
+msgid "Vertical"
+msgstr ""
+
+#: elements/flip-box.php:70
+msgid "Vertical Alignment "
+msgstr ""
+
+#: elements/icon-box.php:520
+msgid "Vertical Position "
+msgstr ""
+
+#: elements/video.php:38
+msgid "Video Background Image"
+msgstr ""
+
+#: elements/video.php:15
+msgid "Video Popup"
+msgstr ""
+
+#: elements/video.php:59
+msgid "Video Type"
+msgstr ""
+
+#: elements/blog-list.php:161 elements/blog-list.php:882
+msgid "View All Button"
+msgstr ""
+
+#: elements/blog-list.php:171
+msgid "View All Button Link"
+msgstr ""
+
+#: elements/modal-popup.php:52
+msgid "Vimeo Video"
+msgstr ""
+
+#: elements/team.php:570
+msgid "Web Background Color"
+msgstr ""
+
+#: elements/team.php:746
+msgid "Web Background Color: Hover"
+msgstr ""
+
+#: elements/team.php:559
+msgid "Web Color"
+msgstr ""
+
+#: elements/team.php:735
+msgid "Web Color: Hover"
+msgstr ""
+
+#: elements/team.php:161
+msgid "Web Link"
+msgstr ""
+
+#: elements/alert.php:87
+msgid "Well Done!"
+msgstr ""
+
+#: elements/carousel.php:301 elements/scroll-to-top.php:166
+#: elements/team.php:785 elements/team.php:899 elements/site-logo.php:108
+#: elements/slider.php:769 elements/image-comparison.php:286
+#: elements/image-comparison.php:311 elements/testimonial.php:460
+#: elements/testimonial.php:563 elements/content-ticker.php:576
+msgid "Width"
+msgstr ""
+
+#: elements/products.php:15
+msgid "Woo Products"
+msgstr ""
+
+#: elements/progress-bar.php:73
+msgid "WordPress"
+msgstr ""
+
+#: elements/typeout.php:61
+msgid ""
+"Write animated heading with comma separated. Example: Ultra, Addons, Lite"
+msgstr ""
+
+#: includes/elementor-helper.php:292 includes/elementor-helper.php:324
+#: includes/elementor-helper.php:356 includes/elementor-helper.php:414
+#: includes/elementor-helper.php:427 includes/elementor-helper.php:470
+#: includes/elementor-helper.php:483 includes/elementor-helper.php:496
+#: includes/elementor-helper.php:519 elements/blog-block.php:431
+#: elements/blog-block.php:461 elements/blog-block.php:491
+#: elements/blog-block.php:613 elements/blog-block.php:643
+#: elements/blog-block.php:673 elements/pricing-table.php:79
+#: elements/pricing-table.php:193 elements/blog-grid.php:154
+#: elements/icon-box.php:220 elements/icon-box.php:233
+#: elements/icon-box.php:246 elements/icon-box.php:259
+#: elements/icon-box.php:310 elements/icon-box.php:323
+#: elements/icon-box.php:336 elements/icon-box.php:376
+#: elements/icon-box.php:389 elements/icon-box.php:402
+#: elements/testimonial.php:169 elements/testimonial.php:213
+#: elements/testimonial.php:225 elements/content-ticker.php:225
+#: elements/content-ticker.php:275
+msgid "Yes"
+msgstr ""
+
+#: elements/team.php:483
+msgid "Youtube Background Color"
+msgstr ""
+
+#: elements/team.php:659
+msgid "Youtube Background Color: Hover"
+msgstr ""
+
+#: elements/team.php:472
+msgid "Youtube Color"
+msgstr ""
+
+#: elements/team.php:648
+msgid "Youtube Color: Hover"
+msgstr ""
+
+#: elements/team.php:116
+msgid "Youtube Link"
+msgstr ""
+
+#: elements/modal-popup.php:51 elements/video.php:72 elements/slider.php:320
+msgid "Youtube Video"
+msgstr ""
+
+#: elements/scroll-to-top.php:212
+msgid "Z Index"
+msgstr ""
+
+#: elements/flip-box.php:52
+msgid "Zoom In"
+msgstr ""
+
+#: elements/flip-box.php:53
+msgid "Zoom Out"
+msgstr ""
